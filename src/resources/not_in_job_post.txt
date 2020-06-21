@@ -1,0 +1,6 @@
+regex! [1-9]\s*\+?-?\s*[0-9]?\s*ye?a?rs?
+regex! [1-9]\s*\+?-?\s*[0-9]?\s*ja?h?re?
+regex! absolvierende.{0,100}studium
+regex! absolvierende.{0,100}ausbildung
+regex! abgeschlossene.{0,100}studium
+regex! abgeschlossene.{0,100}ausbildung

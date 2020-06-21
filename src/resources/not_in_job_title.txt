@@ -1,0 +1,4 @@
+regex! senior
+regex! architect
+regex! architekt
+regex! werkstudent

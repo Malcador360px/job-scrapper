@@ -1,0 +1,4 @@
+job_input_flags, Stichwort, Jobtitel, Beruf, Unternehmen, Kompetenz, Firmaname
+location_input_flags, Ort, Stadt, PLZ, Bundesland, Postleizahl
+next_page_flags, Weiter, >, Weitere Jobs laden, Weitere Jobs, Nächste Seite, Weiter >>, Nächste
+column_names, Webseite, Job, Link
